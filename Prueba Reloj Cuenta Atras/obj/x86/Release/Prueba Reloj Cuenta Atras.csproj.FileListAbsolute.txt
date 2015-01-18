@@ -1,0 +1,8 @@
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Release\Reloj de Pomodoro.exe
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Release\Reloj de Pomodoro.pdb
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Release\Prueba Reloj Cuenta Atras.csprojResolveAssemblyReference.cache
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Release\Prueba_Reloj_Cuenta_Atras.frmPomodoro.resources
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Release\Reloj_de_Pomodoro.Properties.Resources.resources
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Release\Prueba Reloj Cuenta Atras.csproj.GenerateResource.Cache
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Release\Reloj de Pomodoro.exe
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Release\Reloj de Pomodoro.pdb

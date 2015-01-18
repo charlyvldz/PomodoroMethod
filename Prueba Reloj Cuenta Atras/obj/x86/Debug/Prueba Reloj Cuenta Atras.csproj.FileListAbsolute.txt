@@ -1,0 +1,46 @@
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\bin\Debug\Prueba Reloj Cuenta Atras.exe
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\bin\Debug\Prueba Reloj Cuenta Atras.pdb
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.Form1.resources
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.Properties.Resources.resources
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csproj.GenerateResource.Cache
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.exe
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.pdb
+C:\Users\CHARLYSERVER\Desktop\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.exe
+C:\Users\CHARLYSERVER\Desktop\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.pdb
+C:\Users\CHARLYSERVER\Desktop\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\bin\Debug\Prueba Reloj Cuenta Atras.exe
+C:\Users\CHARLYSERVER\Desktop\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\bin\Debug\Prueba Reloj Cuenta Atras.pdb
+C:\Users\CHARLYSERVER\Desktop\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.Form1.resources
+C:\Users\CHARLYSERVER\Desktop\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.Properties.Resources.resources
+C:\Users\CHARLYSERVER\Desktop\Prueba Reloj Cuenta Atras\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csproj.GenerateResource.Cache
+C:\Users\CHARLYSERVER\Desktop\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.exe
+C:\Users\CHARLYSERVER\Desktop\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.pdb
+C:\Users\CHARLYSERVER\Desktop\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Debug\Prueba Reloj Cuenta Atras.exe
+C:\Users\CHARLYSERVER\Desktop\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Debug\Prueba Reloj Cuenta Atras.pdb
+C:\Users\CHARLYSERVER\Desktop\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.Form1.resources
+C:\Users\CHARLYSERVER\Desktop\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.Properties.Resources.resources
+C:\Users\CHARLYSERVER\Desktop\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csproj.GenerateResource.Cache
+C:\Users\CHARLYSERVER\Desktop\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csprojResolveAssemblyReference.cache
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csprojResolveAssemblyReference.cache
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.Form1.resources
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csproj.GenerateResource.Cache
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Debug\Reloj de Pomodoro.exe
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Debug\Reloj de Pomodoro.pdb
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj_de_Pomodoro.Properties.Resources.resources
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj de Pomodoro.exe
+C:\Users\CHARLYSERVER\Desktop\Proyectos Extras\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj de Pomodoro.pdb
+D:\FADA\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj de Pomodoro.exe
+D:\FADA\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj de Pomodoro.pdb
+D:\FADA\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Debug\Reloj de Pomodoro.exe
+D:\FADA\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Debug\Reloj de Pomodoro.pdb
+D:\FADA\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csprojResolveAssemblyReference.cache
+D:\FADA\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.Form1.resources
+D:\FADA\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj_de_Pomodoro.Properties.Resources.resources
+D:\FADA\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csproj.GenerateResource.Cache
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj de Pomodoro.exe
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj de Pomodoro.pdb
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Debug\Reloj de Pomodoro.exe
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\bin\Debug\Reloj de Pomodoro.pdb
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csprojResolveAssemblyReference.cache
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Reloj_de_Pomodoro.Properties.Resources.resources
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba Reloj Cuenta Atras.csproj.GenerateResource.Cache
+D:\DOCUMENTOS\Mi Escritorio\Proyectos Extras CSharp\Prueba Método Pomodoro 2\Prueba Reloj Cuenta Atras\obj\x86\Debug\Prueba_Reloj_Cuenta_Atras.frmPomodoro.resources
